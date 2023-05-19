@@ -70,7 +70,7 @@
           <ul>
           <li>II. Rotación a la izquierda (3pts)
              <ul>
-	     <li><img src="Imágenes/Ejericicio_2.png" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="home/mates4/Imágenes/Ejercicio_2.png" alt="image_1" style witdh="250"; height="250"/></li>
 	       <li> Al tener que ordenar desde una posición al lado izquierdo, se hacen dos for, las cuales cumplen el ordenamiento en relación de la posición del elemento que desean ordenar a la izquierda con la finalidad de hacer el proceso en dos parte Derecha - Izquierda. Luego lo incerta en el array Aiz que tiene el mismo tamaño que el array original.</li>
 	    </ul>
            </li>
